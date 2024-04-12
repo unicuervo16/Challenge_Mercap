@@ -1,0 +1,15 @@
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\bin\Debug\net6.0\Challenge-Mercap-Llamadas.exe
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\bin\Debug\net6.0\Challenge-Mercap-Llamadas.deps.json
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\bin\Debug\net6.0\Challenge-Mercap-Llamadas.runtimeconfig.json
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\bin\Debug\net6.0\Challenge-Mercap-Llamadas.dll
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\bin\Debug\net6.0\Challenge-Mercap-Llamadas.pdb
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\Challenge-Mercap-Llamadas.GeneratedMSBuildEditorConfig.editorconfig
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\Challenge-Mercap-Llamadas.AssemblyInfoInputs.cache
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\Challenge-Mercap-Llamadas.AssemblyInfo.cs
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\Challenge-Mercap-Llamadas.csproj.CoreCompileInputs.cache
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\Challenge-Mercap-Llamadas.sourcelink.json
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\Challenge-Mercap-Llamadas.dll
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\refint\Challenge-Mercap-Llamadas.dll
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\Challenge-Mercap-Llamadas.pdb
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\Challenge-Mercap-Llamadas.genruntimeconfig.cache
+J:\C# .NET\Proyectos\Repos\Challenge-Mercap-Llamadas\Challenge-Mercap-Llamadas\obj\Debug\net6.0\ref\Challenge-Mercap-Llamadas.dll
